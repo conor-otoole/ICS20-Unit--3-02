@@ -1,5 +1,5 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Conor
+* Created on: Sep 2022
 * This file contains the CSS for index.html
 */
 
@@ -22,11 +22,11 @@
 }
 
 body {
-  background-color: rgb(154 211 232);
+  background-color: rgb(184, 142, 142);
 }
 
 p {
-  color: black;
+  color: white;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 1.5rem;
